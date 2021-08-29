@@ -16,4 +16,12 @@
   
 ## Usage
 
+### Data collection
+
+### Data Pre-Processing
+
+### Model Training
+
+### Model Deployment
+
 ## Results
