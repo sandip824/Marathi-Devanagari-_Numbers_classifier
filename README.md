@@ -1,3 +1,4 @@
+
 # Marathi-Devanagari-_Numbers_classifier
 
 ### Installation
@@ -25,7 +26,5 @@
 ### Model Deployment
 ![Model Deployment](readme_data/deployment.png)
 ## Results
-<video width="320" height="240" controls>
-  <source src="readme_data/results.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/47384889/132085406-57a25790-249f-40f5-96f1-6bcaef576976.mp4
 
