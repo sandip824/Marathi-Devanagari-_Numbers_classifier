@@ -25,5 +25,7 @@
 ### Model Deployment
 ![Model Deployment](readme_data/deployment.png)
 ## Results
-https://user-images.githubusercontent.com/47384889/132085124-51d2834a-5399-4e35-8a15-ec97ff33aa4a.mov
+<video width="320" height="240" controls>
+  <source src="readme_data/results.mov" type="video/mp4">
+</video>
 
