@@ -26,6 +26,6 @@
 ![Model Deployment](readme_data/deployment.png)
 ## Results
 <video width="320" height="240" controls>
-  <source src="readme_data/results.mov" type="video/mp4">
+  <source src="readme_data/results.mp4" type="video/mp4">
 </video>
 
